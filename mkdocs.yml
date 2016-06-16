@@ -1,0 +1,9 @@
+site_name: Tripwire Wiki
+pages:
+- Home: index.md
+- Tripwire Initial Setup: tripwire_setup.md
+- Tripwire Tips and Tricks: tripwire_tips.md
+- Short Circuit: shortcircuit.md
+- Wormhole Visual Identification: whvisual.md
+- Fun Facts About Wormholes: funfacts.md
+theme: readthedocs
