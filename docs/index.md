@@ -10,6 +10,12 @@ Here you will find guides about Tripwire and wormholes in general.
 * A guide to identifying the destination class of a wormhole based on its color: [Wormhole Visual Identification](whvisual/)
 * A few fun facts about wormholes: [Fun Facts About Wormholes](funfacts/)
 
+## External resources
+
+* [Wormhole Hunting by Longinius Spear - Eve Vegas 2015](https://www.youtube.com/watch?v=5ddR7W4LmR8)
+* [A history of Wormhole space in EVE Online by ExookiZ - Eve Fanfest 2016](https://www.youtube.com/watch?v=X9P0f3KJCtE)
+* [Rykki's Guide - Sleeper Sites](https://docs.google.com/spreadsheets/d/17cNu8hxqJKqkkPnhDlIuJY-IT6ps7kTNCd3BEz0Bvqs/pubhtml#)
+
 ## Contributing
 
-If you want to contribute to this wiki, please contact *Valtyr Farshield* on Slack.
+If you want to contribute to this wiki, please contact *Valtyr Farshield* on Slack. You can send pull requests here: https://bitbucket.org/farshield/tripwire-wiki
