@@ -25,7 +25,7 @@ Tripwire is able to track your location through the in-game browser only if you'
 
 ## Masks
 
-A mask is the collection of wormhole connections and signatures the members of that particular mask have added. You can select a mask from `Settings` - the cogwheel icon in the upper-right corner:
+A mask is the collection of wormhole connections and signatures the members of that particular mask have added. You can select a mask from `Settings` - the cogwheel icon in the upper-right corner and then `Account Settings`:
 
 ![Tripwire Settings](img/tripwire_settings.png)
 
