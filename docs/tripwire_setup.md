@@ -14,6 +14,8 @@ Tripwire is able to track your location through the in-game browser only if you'
 
 ![Tripwire Trusted](img/tripwire_trusted.png)
 
+You can choose to either use this browser or minimize it and open Tripwire in an external browser (Chrome, Firefox, IE, others). The browsers will automatically synchronize. This is very useful for multiple-monitor setups.
+
 ## Tracking and Auto-Mapper
 
 *Tracking* and *Auto-Mapper* options make building wormhole chains easier. This is how you can enable these options:
