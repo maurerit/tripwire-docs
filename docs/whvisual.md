@@ -72,7 +72,7 @@ A turquoise aurora highlights a wormhole that allows every ship below capital hu
 ### X-Large
 ![Wh Small](img/wh_size_xlarge.jpg)
 
-A yellow aurora indicates wormholes that freighters can transit.
+A yellow aurora indicates that capital ships can pass through.
 
 ## New Eden wormhole colors
 
