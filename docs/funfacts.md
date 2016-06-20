@@ -5,7 +5,7 @@ There are **2604** wormhole systems in total and **106** out of those are shatte
 * If a wormhole collapses during downtime, then a new wormhole will spawn at the exact same location, but will lead to a different system. A possible hint that this happened: the wormhole was EOL before downtime and it stabilized after. Be aware of your entrances when planning ops.
 * C4 systems will basically never spawn a connection to known space, even though the connections exists in the game code, the mechanics doesn't allow it to spawn: the wormhole code is `O128`.
 * Wormholes can be artificially collapsed by jumping enough mass through the connection. Some wormholes regenerate mass (frigate-only wormholes) and, in combination with the mass jump limit restriction, are very difficult to collapse. However, it is not impossible.
-* The `K162` exit of a wormhole doesn't spawn unless someone initiates warp to the static on the other side or if a certain amount of time has passed (a few hours). In other words, when a static wormhole collapses and another one spawns in its stead, the connection won't actually be established unless somebody scans and warps to the new signature or after a certain amount of time has passed.
+* The `K162` exit of a wormhole spawns when someone jumps the static on the other side or as per timer rules. The timer starts when someone initiates warp to the static. When 16 hours or less remain on the timer, the spawn chance is increasingly higher, regardless if anybody is jumping the static or not. In other words, when a new signature appears and if it's a wormhole, then there's a high chance it was spawned because someone jumped in, so check your Dscan.
 
 ## Shattered Wormholes
 
