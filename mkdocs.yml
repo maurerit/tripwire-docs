@@ -1,10 +1,10 @@
-site_name: Tripwire Wiki
+site_name: LH Wormhole Documentation
 pages:
 - Home: index.md
 - Tripwire Initial Setup: tripwire_setup.md
 - Tripwire Tips and Tricks: tripwire_tips.md
-- Short Circuit: shortcircuit.md
+#- Short Circuit: shortcircuit.md
 - Wormhole Visual Identification: whvisual.md
 - Fun Facts About Wormholes: funfacts.md
-- BountyBot: bountybot.md
+#- BountyBot: bountybot.md
 theme: readthedocs

@@ -160,16 +160,6 @@ You can modify the default background for Tripwire by going to `Settings` -> `Pr
 
 ![Tripwire Background](img/tripwire_background.png)
 
-If you prefer the old Tripwire background: <https://tripwire.torpedodelivery.com/images/bg_old.jpg>
-
-Other backgrounds made by our fellow alliance members:
-
-<https://tripwire.torpedodelivery.com/images/bg01.jpg>
-<https://tripwire.torpedodelivery.com/images/bg02.jpg>
-<https://tripwire.torpedodelivery.com/images/bg03.jpg>
-<https://tripwire.torpedodelivery.com/images/bg04.jpg>
-<https://tripwire.torpedodelivery.com/images/bg05.jpg>
-
 ### What now?
 
 Just go out there, explore and have fun. Now you know how to use Tripwire effectively :)

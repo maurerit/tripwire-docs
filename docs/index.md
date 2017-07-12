@@ -1,4 +1,4 @@
-# Welcome to WDS Tripwire Wiki
+# Welcome to LH Tripwire Documentation
 
 Here you will find guides about Tripwire and wormholes in general.
 
@@ -18,4 +18,4 @@ Here you will find guides about Tripwire and wormholes in general.
 
 ## Contributing
 
-If you want to contribute to this wiki, please contact *Valtyr Farshield* on Slack. You can send pull requests here: <https://bitbucket.org/farshield/tripwire-wiki>
+If you want to contribute to this documentation, please contact *Marq Aideron*/*@narook* on Slack. You can send pull requests here: <https://github.com/maurerit/tripwire-docs>
